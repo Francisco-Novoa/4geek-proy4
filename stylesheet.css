@@ -19,7 +19,5 @@ color: white !important;
 color:gray !important;
 }
 div img{
-    object-fit: contain;
     width: 100%;
-    height: 100px;
 }
